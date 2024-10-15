@@ -12,11 +12,11 @@ Always eager to learn and improve myself. I really enjoy teamwork and developing
 ### 🛠 Tools that I use for coding and studying:
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white )
-  - I started using Obsidian to manage all the things that I've learned. Quickly became an amazing experience and I love to see my graph grow.
+- I started using Obsidian to manage all the things that I've learned. Quickly became an amazing experience and I love to see my graph grow.
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white )
-  - It's my editor of choice, I love trying out plugins that improve my dev workflow.
-  - You can find my latest config [Neovim config](https://github.com/Bautisc/lazyConfig)
+- It's my editor of choice, I love trying out plugins that improve my dev workflow.
+- - You can find my latest config [Neovim config](https://github.com/Bautisc/lazyConfig)
 
 
 ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white )
