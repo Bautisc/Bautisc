@@ -2,7 +2,8 @@
 
 I'm a Professional Developer from Uruguay In search of new challenges that allow me to put into practice what I have learned and apply it to a real project.
 Always eager to learn and improve myself. I really enjoy teamwork and developing alongside others.
-- 🌱 I’m currently learning Astro and building my web portfolio...
+
+- 🌱 I’m currently learning Astro building my web portfolio and recently my first freelancer job!...
 - 💬 Feel free to ask me about whatever you want. I'm interested in contribuiting.
 
 ### 📫 How to reach me:
