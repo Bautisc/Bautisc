@@ -22,7 +22,7 @@ Always eager to learn and improve myself. I really enjoy teamwork and developing
 
 ![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white )
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black )
-### 🛠 My Projects:
+### 🛠 Technologies that I've used:
 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white )
